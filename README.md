@@ -86,7 +86,7 @@ public class FooTest {
 
 ## Legal / Pull Requests
 
- * Author: Maximilian Schiedermeier ![email](email.png)
+ * Author: Maximilian Schiedermeier
  * Github: [Kartoffelquadrad](https://github.com/kartoffelquadrat)
  * Webpage: https://www.cs.mcgill.ca/~mschie3
  * License: [MIT](https://opensource.org/licenses/MIT)
