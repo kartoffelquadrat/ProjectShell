@@ -1,4 +1,4 @@
-# Maven Dependency Downloader
+# YOUR PROJECT NAME
 
 ![version](https://img.shields.io/badge/version-0.0.1-brightgreen)
 ![coverage](https://img.shields.io/badge/coverage-0%25-brightgreen)
@@ -54,7 +54,7 @@ your.java.code.here;
 
 A COPYRIGHT SNIPPET HERE. I RECOMMEND THE BELOW:
 
- * Author: Bowen Li ![email](email.png)
+ * Author: LAST FIRST ![email](email.png)
  * Github: YOURGITHUBHERE
  * Webpage: https://www.cs.mcgill.ca/~YOURMCGILLWEBPAGEHERE
  * License: [MIT](https://opensource.org/licenses/MIT)
